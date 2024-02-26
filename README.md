@@ -1,1 +1,0 @@
-# Tushar-UI-UX-internship
