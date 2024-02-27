@@ -2,3 +2,6 @@
 Day 1:
 Understanding the basic definitions of User interface (UI) and User Experience (UX) 
 How to create a github account and create a repository for submitting assingments and projects for the UI/UX internship. 
+Day 2: 
+Understanding different tpyes of logos, and how to create a simple logo in photoshop. 
+assignment to sketch a logo. 
